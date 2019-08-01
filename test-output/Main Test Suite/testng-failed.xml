@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Main Test Suite]">
+  <test name="bank functional test(failed)">
+    <classes>
+      <class name="com.bank.Utilities.Create_TestNGXML">
+        <methods>
+          <include name="createXMLfile"/>
+        </methods>
+      </class> <!-- com.bank.Utilities.Create_TestNGXML -->
+    </classes>
+  </test> <!-- bank functional test(failed) -->
+</suite> <!-- Failed suite [Main Test Suite] -->

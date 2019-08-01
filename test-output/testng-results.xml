@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Main Test Suite" duration-ms="147142" started-at="2019-07-30T10:27:54Z" finished-at="2019-07-30T10:30:22Z">
+    <groups>
+    </groups>
+    <test name="functional test" duration-ms="147142" started-at="2019-07-30T10:27:54Z" finished-at="2019-07-30T10:30:22Z">
+      <class name="com.tecprotec.Utilities.Create_TestNGXML">
+        <test-method status="PASS" signature="createXMLfile()[pri:0, instance:com.tecprotec.Utilities.Create_TestNGXML@1794d431]" name="createXMLfile" duration-ms="147099" started-at="2019-07-30T15:57:54Z" finished-at="2019-07-30T16:00:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createXMLfile -->
+      </class> <!-- com.tecprotec.Utilities.Create_TestNGXML -->
+    </test> <!-- functional test -->
+  </suite> <!-- Main Test Suite -->
+</testng-results>
